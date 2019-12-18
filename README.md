@@ -1,5 +1,5 @@
-# pytest_by_example
-The repo has useful pytest example demonstrating  pytest elagance in QA automated testing - Api testing, web applications etc..
+# API Test Automation Framework
+This project demonstrates how pytest can be put together to create an API automation tool to assist in regression testing.
 
 ### Multivation for putting together an API testing framework
 
