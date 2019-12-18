@@ -4,11 +4,11 @@ This project demonstrates how pytest can be put together to create an API automa
 ### Multivation for putting together an API testing framework
 
 ##### when testing apis I usually found myself repeating alot test code and I knew this is wrong. I strongly believe that api tests should be:
-    - **Test data driven** - scenarios should drive tests.
-    - There should be **minimal repetition** on test code. **DRY Principal**
-    - **Stand alone** - tests should not depend on each other, or else there should be minimal dependancy.
-    - Test **dependancy** comes in handy when testing business logic.
-    - Any part of API under test should be **configurable**, i.e remove any hard coding as much as possible.
+    - Test data driven - scenarios should drive tests.
+    - There should be minimal repetition on test code. DRY Principal
+    - Stand alone - tests should not depend on each other, or else there should be minimal dependancy.
+    - Test dependancy comes in handy when testing business logic.
+    - Any part of API under test should be configurable, i.e remove any hard coding as much as possible.
 
 ###### Therefore there is a need to organize test process or flow to ensure that apis tests yield maximum benefits like test accuracy,maintainance and speed.
 
