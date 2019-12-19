@@ -33,6 +33,8 @@ This project demonstrates how pytest can be put together to create an API automa
 
 ### Important links
   - [pytest official documentation](http://pytest.org/en/latest/)
+  - [Simple guide to api testing](https://www.softwaretestingclass.com/simple-guide-to-learn-api-testing/)
+  
   **to do - add more details**
   
  
